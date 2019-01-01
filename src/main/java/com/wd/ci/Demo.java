@@ -9,7 +9,7 @@ package com.wd.ci;
  */
 public class Demo {
 
-	private String appName = "Good apple,test jenkins";
+	private String appName = "Good apple,demo jenkins";
 
 	public String getAppName() {
 		return appName;
